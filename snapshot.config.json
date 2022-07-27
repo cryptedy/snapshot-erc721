@@ -1,0 +1,14 @@
+{
+    "chain" : "polygon",
+    "output" : {
+        "ownerOf": ".snapshot/owner.json",
+        "balanceOf" : ".snapshot/balance.json"
+    },
+    "params":{
+        "fromBlock" : "0x0",
+        "toBlock" : "latest",
+        "contractAddresses": [
+            "0xba6E421833F6C190a830Ce6E142685B3916c9BD0"
+        ]
+    }
+}

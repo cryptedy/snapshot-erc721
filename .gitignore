@@ -1,0 +1,4 @@
+.env
+.snapshot
+.vscode
+node_modules
